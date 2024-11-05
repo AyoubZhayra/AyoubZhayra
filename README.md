@@ -1,4 +1,4 @@
-###  Hi, I'm Ayoub ZHAYRA!
+#  Hi, I'm Ayoub ZHAYRA!
 
 👩🏻‍💻 Software Engineer <br>
 👩🏻‍🎓 Studied Computer Science at the Private University of Fez, Morocco <br>
